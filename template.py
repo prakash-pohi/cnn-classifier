@@ -13,6 +13,7 @@ file_list = [
     f"src/{projectname}/entity/__init__.py",
     f"src/{projectname}/constants/__init__.py",
     f"src/{projectname}/config/__init__.py",
+    f"src/{projectname}/config/configuration.py",
     f"src/{projectname}/pipeline/__init__.py",
     f"src/{projectname}/utils/__init__.py",
     "config/config.yaml",
