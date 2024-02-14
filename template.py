@@ -17,10 +17,12 @@ file_list = [
     f"src/{projectname}/pipeline/__init__.py",
     f"src/{projectname}/utils/__init__.py",
     "config/config.yaml",
+    "dvc.yaml",
     "params.yaml",
-    "requirements.yaml",
+    "requirements.txt",
     "setup.py",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
+    "templates/index.html"
 ]
 
 for filepath in file_list:
